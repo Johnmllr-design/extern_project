@@ -1,3 +1,7 @@
+# This is a python file to perform the introductory tasks as described int he in structions
+# for the python genAI externship
+
+
 user = "John"           # declaring the user to be John
 age = 21                # declaring the age to be 21
 height = "6.1"          # 
