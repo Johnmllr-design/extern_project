@@ -14,8 +14,8 @@ number = input("give me a number, and i'll describe it to you")     # call for u
 number = int(number)                                                # convert input to integer
 
 if number > 0:
-    print("This number is positive. Awesome!")
+    print("This number is positive. Awesome!")                      # handle the positive case
 elif number < 0:
-    print("This number is negative. Better luck next time!")
+    print("This number is negative. Better luck next time!")         # handle the negative case
 else:
-    print("Zero it is. A perfect balance!")
+    print("Zero it is. A perfect balance!")                          # handle the equal case
